@@ -1,4 +1,5 @@
 # progetto_fondamenti_datascience
 
-in questa repository ci sono 2 notebook. Il primo relativo all'intera analisi da me effettauta sul dataset.
-Il secondo riguarda solo ed esclusivamente la presentazione
+In questa repository si trova il notebook relativo ad un progetto di data science per un esame universitario.
+Il dataset utilizzato riguarda dei film. (anch'esso presente nella repository)
+Inoltre è presenta anche un file .html utilizzato per la presentazione
